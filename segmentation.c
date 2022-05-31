@@ -76,3 +76,6 @@ int main(){
    }
    return 0;
 }
+
+
+//while compiling worte the command  gcc segmentation.c -o segmentation.o -lm
